@@ -55,6 +55,11 @@
             <artifactId>zkclient</artifactId>
             <version>${com.github.sgroschupf.zkclient.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.csonezp</groupId>
+            <artifactId>dubbo-base</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
     <dependencyManagement>

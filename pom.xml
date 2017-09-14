@@ -9,6 +9,7 @@
     <modules>
         <module>dubbo-provide</module>
         <module>dubbo-consume</module>
+        <module>dubbo-base</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -13,6 +13,6 @@
 
     <dubbo:protocol name="${dubbo.protocol.name}" port="${dubbo.protocol.port}"/>
 
-    <dubbo:service interface="com.csonezp.TestService"
+    <dubbo:service interface="com.csonezp.base.TestService"
                    ref="testService" retries="0" timeout="6000"/>
 </beans>

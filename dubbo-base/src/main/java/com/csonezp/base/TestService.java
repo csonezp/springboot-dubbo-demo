@@ -1,4 +1,4 @@
-package com.csonezp;
+package com.csonezp.base;
 
 /**
  * Created by csonezp on 2017/9/14.

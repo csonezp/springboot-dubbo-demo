@@ -10,5 +10,5 @@
 
     <dubbo:registry protocol="${dubbo.registry.protocol}" address="${dubbo.registry.address}"/>
 
-    <dubbo:reference id="testService" interface="com.csonezp.TestService"/>
+    <dubbo:reference id="testService" interface="com.csonezp.base.TestService"/>
 </beans>
